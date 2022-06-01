@@ -27,7 +27,7 @@
   width: 500px;
   margin: 0 auto 0;
 }
-.task-name {
+.todo__name {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
